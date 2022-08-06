@@ -31,4 +31,14 @@ img{
 .image-caption{
     text-align: center;
     margin: 10px 0;
+    margin-bottom: 0;
+}
+.article{
+    max-height: 100%;
+    max-width: 100%;
+    padding: 0 40px;
+}
+.article > p{
+    font-size: 18px;
+    text-align: justify;
 }
